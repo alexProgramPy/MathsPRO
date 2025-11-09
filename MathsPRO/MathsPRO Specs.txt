@@ -1,0 +1,4 @@
+IT PAT MathsPRO Specs:
+
+Total number of lines of code: 87 + 63 + 50 + 14 + 57 + 47 + 34 + 79 + 58 + 51 + 51 + 31 + 60 + 326 + 292 + 308 + 286 + 305 + 246 + 236 + 261 + 330 + 487 + 731 + 337 + 434 + 248 = 5509
+Total lines of external code: 13 + 12 + 7 + 16 + 10 + 15 = 73
